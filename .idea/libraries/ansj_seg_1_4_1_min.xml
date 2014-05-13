@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ansj_seg-1.4.1-min">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ansj_seg-1.4.1-min.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tree_split-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
