@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed37fb21-bd61-413c-a795-7165b6223b76" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TextRank.iws" />
@@ -503,7 +502,7 @@
       <workItem from="1410352325540" duration="1065000" />
       <workItem from="1410621378977" duration="166000" />
       <workItem from="1411035828562" duration="608000" />
-      <workItem from="1412955248025" duration="2061000" />
+      <workItem from="1412955248025" duration="2142000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <created>1399959410193</created>
@@ -521,11 +520,15 @@
       <created>1412957399585</created>
       <updated>1412957399585</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="清理输出目录">
+      <created>1412957563054</created>
+      <updated>1412957563054</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10694000" />
+    <option name="totallyTimeSpent" value="10775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -577,7 +580,8 @@
     <MESSAGE value="初始提交" />
     <MESSAGE value="增加说明和对Eclipse的支持" />
     <MESSAGE value="增加自动摘要功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加自动摘要功能" />
+    <MESSAGE value="清理输出目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="清理输出目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
