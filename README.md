@@ -3,6 +3,10 @@ TextRank
 
 TextRank算法提取关键词与自动摘要的Java实现
 
+## 注意
+
+TextRank已经集成到[HanLP](https://github.com/hankcs/HanLP)中，本项目不再维护。
+
 TextRankKeyword提取关键词
 --
 
